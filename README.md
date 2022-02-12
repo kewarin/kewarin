@@ -30,8 +30,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://facebook.com/kewarin.jaydeestan"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 
 </p>
 

@@ -24,8 +24,6 @@
     <a href="https://photoshop.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 </p>
 
-  <br/>
-    <a href=""><img alt="Subham Raoniar's Github Stats" src="" /></a>
   
 ## Connect with me:
 <p align="left">
